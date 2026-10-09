@@ -1,0 +1,4 @@
+interface:
+  display_name: "GDPR 初判与通知助手"
+  short_description: "提取泄露事实、判断72小时通知义务并准备监管通知初稿"
+  default_prompt: "使用 $gdpr-data-breach-triage 对这起疑似个人数据泄露进行初判并给出通知建议。"
